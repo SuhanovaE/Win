@@ -1,0 +1,15 @@
+C:\Users\Студент\Desktop\Figure\bin\Debug\Figure.exe.config
+C:\Users\Студент\Desktop\Figure\bin\Debug\Figure.exe
+C:\Users\Студент\Desktop\Figure\bin\Debug\Figure.pdb
+C:\Users\Студент\Desktop\Figure\obj\Debug\Figure.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Figure\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\Figure\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\Figure\obj\Debug\Figure_MarkupCompile.cache
+C:\Users\Студент\Desktop\Figure\obj\Debug\Figure_MarkupCompile.lref
+C:\Users\Студент\Desktop\Figure\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\Figure\obj\Debug\Figure.g.resources
+C:\Users\Студент\Desktop\Figure\obj\Debug\Figure.Properties.Resources.resources
+C:\Users\Студент\Desktop\Figure\obj\Debug\Figure.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Figure\obj\Debug\Figure.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Figure\obj\Debug\Figure.exe
+C:\Users\Студент\Desktop\Figure\obj\Debug\Figure.pdb
